@@ -1,0 +1,4 @@
+some test sketches can also be found at: 
+https://github.com/MrAlvin/RAMPS_1.7/tree/master/Arduino%20test%20sketches
+
+Please note that the pin numbering might be for the RAMPS 1.7 shields, and not for the RAMPS 1.4.4 shield
